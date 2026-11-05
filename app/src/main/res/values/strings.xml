@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticalTest01Var08</string>
+    <string name="answer_String">Answer</string>
+    <string name="riddle_string">Riddle</string>
+    <string name="play_string">Play</string>
+    <string name="check_string">Check</string>
+    <string name="back_string">Back</string>
+</resources>
